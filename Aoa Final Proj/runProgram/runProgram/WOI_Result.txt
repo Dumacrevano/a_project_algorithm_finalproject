@@ -1,0 +1,5 @@
+Dijkstra's Algorithm
+The Total Weight(Cost) is:15 edges
+Elapsed Time:0.000183065sec
+Total of visited nodes:201nodes
+Total of unvisited nodes:55nodes

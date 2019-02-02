@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\dumac revano\desktop\path finding\runprogram\runprogram\olcconsolegameengine.h(759): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dumac revano\desktop\path finding\runprogram\runprogram\olcconsolegameengine.h(1099): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\dumac revano\desktop\path finding\runprogram\runprogram\olcconsolegameengine.h(1196): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+c:\users\dumac revano\desktop\path finding\runprogram\runprogram\source.cpp(99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  runProgram.vcxproj -> C:\Users\DUMAC REVANO\Desktop\Path Finding\runProgram\x64\Debug\runProgram.exe
